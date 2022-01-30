@@ -7,4 +7,4 @@ Ex for use
 
 
 
-<img src="./ScriptyScreenShot.png">
+<img src="./Scripty.png">
